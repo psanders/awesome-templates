@@ -19,14 +19,14 @@ Are you contributing to ${organization}? Yes? Okay, you rock! 🎸 If not, we ca
 You can contribute to the tools 🔧 you rely on from ${organization}. Here is a list of the top projects to contribute to:
 
 - [Repo #1](https://github.com/yourorg/repo1) - The primary repository for ${organization}'s ecosystem
-- [Repo #2](https://github.com/yourorg/repo2) - Write here a descritio of your second project
-- [Repo #3](https://github.com/yourorg/repo3) - Write here a descritio of your third project
-- [Repo #4](https://github.com/yourorg/repo4) - Write here a descritio of your fourth project
+- [Repo #2](https://github.com/yourorg/repo2) - Write here a description of your second project
+- [Repo #3](https://github.com/yourorg/repo3) - Write here a description of your third project
+- [Repo #4](https://github.com/yourorg/repo4) - Write here a description of your fourth project
 
 ### Become a sponsor
 
-Help us get to our monthly goal. Currently => ▮▮▮▮▯ 85%
+Could you help us get to our monthly goal? Currently => ▮▮▮▮▯ 85%
 
-If you are planning on using ${organization} a monthly contribution would mean a lot. On its own, open-source doesn't pay the bills. Hopefully, continuing our work can be sustainable with your help.
+A monthly contribution would mean a lot if you are planning on using ${organization}. On its own, open-source doesn't pay the bills. Hopefully, continuing our work can be sustainable with your help.
 
 Click [here](https://github.com/sponsors/yourorg) to become a GitHub Sponsor  👈👈
