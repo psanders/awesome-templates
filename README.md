@@ -1,3 +1,3 @@
 # Awesome Templates
 
-A collection of awesome templates!
+A curated collection of awesome templates!
